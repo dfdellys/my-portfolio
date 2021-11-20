@@ -17,12 +17,6 @@ SO THAT I can assess whether they're a good candidate for an open position
 
 ![myportfolioReact](https://user-images.githubusercontent.com/73720274/142714295-8810e202-3252-4f09-9f1c-b8134fc5e089.png)
 
+## Link
 
-
-
-
-
-
-
-
-
+https://dfdellys.github.io/my-portfolio/
